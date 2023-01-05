@@ -4,6 +4,7 @@ namespace APIStockVin
 {
     public class client
     {
+        // identifiant du client
         [Key]
         public int ID_Client { get; set; }
 
